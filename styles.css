@@ -4,6 +4,11 @@
   --mg-teal: #1f6f68;
   --mg-rust: #9d4635;
   --mg-ink: #1f2a2e;
+  --mg-dark-bg: #14191b;
+  --mg-dark-ink: #edf3f2;
+  --mg-dark-muted: #c0cbc8;
+  --mg-dark-link: #6ed6cf;
+  --mg-dark-line: #344044;
 }
 
 body {
@@ -23,6 +28,58 @@ a:hover {
   display: none;
 }
 
+.navbar {
+  min-height: 56px;
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+}
+
+.navbar-container,
+.navbar-collapse,
+.navbar-nav,
+.quarto-navbar-tools {
+  align-items: center;
+  min-height: 40px;
+}
+
+.quarto-navbar-tools {
+  display: flex;
+}
+
+.navbar .nav-link,
+.quarto-navigation-tool {
+  display: inline-flex;
+  align-items: center;
+  height: 32px;
+}
+
+.quarto-color-scheme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 74px;
+  height: 32px;
+  padding: 0 0.75rem;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-size: 0.86rem;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.quarto-color-scheme-toggle::before {
+  content: "Dark";
+}
+
+.quarto-color-scheme-toggle.alternate::before {
+  content: "Light";
+}
+
+.quarto-color-scheme-toggle .bi {
+  display: none;
+}
+
 .quarto-title-block .title {
   color: var(--mg-ink);
 }
@@ -34,6 +91,52 @@ a:hover {
 h2 {
   border-bottom: 1px solid #dbe5e1;
   padding-bottom: 0.25rem;
+}
+
+body.quarto-dark {
+  background-color: var(--mg-dark-bg);
+  color: var(--mg-dark-ink);
+}
+
+body.quarto-dark a {
+  color: var(--mg-dark-link);
+}
+
+body.quarto-dark a:hover {
+  color: #9fe7e2;
+}
+
+body.quarto-dark .quarto-title-block .title {
+  color: var(--mg-dark-ink);
+}
+
+body.quarto-dark .quarto-title-block .subtitle,
+body.quarto-dark .lead,
+body.quarto-dark .description,
+body.quarto-dark .quarto-title-meta {
+  color: var(--mg-dark-muted);
+}
+
+body.quarto-dark h1,
+body.quarto-dark h2,
+body.quarto-dark h3,
+body.quarto-dark h4,
+body.quarto-dark h5,
+body.quarto-dark h6,
+body.quarto-dark p,
+body.quarto-dark li,
+body.quarto-dark dd,
+body.quarto-dark dt {
+  color: var(--mg-dark-ink);
+}
+
+body.quarto-dark h2 {
+  border-bottom-color: var(--mg-dark-line);
+}
+
+body.quarto-dark #TOC,
+body.quarto-dark .toc-active {
+  color: var(--mg-dark-muted);
 }
 
 .profile-photo {
