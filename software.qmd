@@ -1,0 +1,26 @@
+---
+title: "Software"
+---
+
+## R Packages
+
+### qcaERT
+
+qcaERT is a package for appraising robustness in Qualitative Comparative Analysis (QCA) (Ragin, 2014). Building on the workflow supported by the [QCA package](https://cran.r-project.org/web/packages/QCA/index.html) (Dusa, 2019), qcaERT treats robustness evaluation as an auditable process through diagnostics for calibration thresholds, truth table cutoffs, case composition, cluster heterogeneity, and theory-specific condition sets. The package aims to make robustness appraisal more detailed and transparent while remaining consistent with the epistemological underpinnings of QCA.
+
+- Repository: [GitHub](https://github.com/marisguia/qcaERT)
+- CRAN: Soon
+- Recommended citation: Marisguia, B. A. H. (2026). qcaERT: Enhanced Robustness Tests for Qualitative Comparative Analysis. R package version 0.1.0.
+
+#### References
+- Dusa, Adrian. 2019. *QCA with R: A Comprehensive Resource*. Cham: Springer. [https://adriandusa.com/research/books/2019-QCA/](https://adriandusa.com/research/books/2019-QCA/)
+- Ragin, Charles C. 2014. *The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies*. Oakland, CA: University of California Press. [https://www.ucpress.edu/books/the-comparative-method/paper](https://www.ucpress.edu/books/the-comparative-method/paper)
+
+## Apps
+
+### Research Design Notebook
+
+The Research Design Notebook helps you organize a project by separating the main parts of a research design: the research question, the kind of knowledge claim, theory and concepts, empirical base, method, measurement, inference, and unresolved design questions.  Also, it might serve as a neat teaching tool!  The app is built so you can fill in your project information and then inspect it in different forms. The notebook, design map, memo, warnings, and downloads are generated from the same project info.
+
+- Link: [Research Design Notebook](https://marisguia.shinyapps.io/ResearchDesignNotebook/)
+- Recommended citation: Marisguia, B. A. H. (2026). Research Design Notebook. Version 0.2. Available at https://marisguia.shinyapps.io/ResearchDesignNotebook/

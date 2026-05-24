@@ -1,0 +1,244 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Breno A. H. Marisguia
+
+Postdoctoral Fellow, Graduate Program in Political Science  
+Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil  
+[GitHub](https://github.com/marisguia) | [Website](https://marisguia.github.io) | [Lattes](http://lattes.cnpq.br/3901080095177475)
+
+Last updated: May 2026
+
+## Academic Appointments
+
+**Postdoctoral Fellow**  
+Graduate Program in Political Science, UFMG, Belo Horizonte, Brazil  
+2026-present
+
+- Funded by the National Council for Scientific and Technological Development (CNPq).
+- Field: Political Science.
+
+**Visiting Researcher**  
+Institute for Applied Economic Research (IPEA), Brazil  
+2025
+
+- Research line: State, Institutions, and Democracy.
+- Project: career mobility, stability, and profiles of public-sector leaders in Brazil.
+
+**Researcher / Collaborator**
+
+LegisLab - Social Technology, UFMG, Belo Horizonte, Brazil  
+2025-present
+
+Center for Legislative Studies, UFMG, Belo Horizonte, Brazil  
+2015-present
+
+## Education
+
+**Ph.D. in Political Science**  
+UFMG, Belo Horizonte, Brazil  
+2025
+
+- Dissertation: "Reshaping Power: Presidential Interruptions and Political Realignment in Latin America."
+- Advisor: Manoel Leonardo Wanderley Duarte Santos.
+- Doctoral scholarship: Coordination for the Improvement of Higher Education Personnel (CAPES), Brazil.
+- Research areas: presidential interruption, Latin America, institutions.
+
+**M.A. in Political Science**  
+UFMG, Belo Horizonte, Brazil  
+2020
+
+- Thesis: "Predicting and Explaining Presidential Interruptions in Latin America."
+- Advisor: Carlos Ranulfo Felix de Melo.
+- Master's scholarship: Minas Gerais State Research Support Foundation (FAPEMIG), Brazil.
+- Research areas: Latin America, presidential interruption, presidential crises, mixed-methods research.
+
+**B.A. in Social Sciences**  
+UFMG, Belo Horizonte, Brazil  
+2017
+
+- Monograph: "Cooptação de Lideranças, Bases Sociais e Representatividade: Uma Análise das Comissões Executivas Nacionais do Partido dos Trabalhadores."
+- Advisor: Carlos Ranulfo Felix de Melo.
+
+## Publications
+
+### Peer-Reviewed Journal Articles
+
+1. Santos, Manoel Leonardo; Guedes-Neto, João V.; Bohigues, Asbel; and **Breno A. H. Marisguia**. 2024. [As elites parlamentares latino-americanas em 3D: Estado de bem-estar, Liberdades individuais e Liberalismo econômico](https://periodicos.sbu.unicamp.br/ojs/index.php/op/article/view/8678880). *Opinião Pública* 30: 1.
+
+### Books
+
+1. Albala, A.; Santos, M. L. W. D.; and **Breno A. H. Marisguia**. 2026. [*Análise Qualitativa Comparada (QCA) Para Ciências Sociais*](https://livrariaintersaberes.com.br/produto/analise-qualitativa-comparada-qca-para-ciencias-sociais/). 1st ed. Curitiba: Intersaberes. 221 pp.
+
+1. **Breno A. H. Marisguia**. 2025. [*Tale Compass*](https://www.drivethrurpg.com/en/product/523108/tale-compass). 1st ed. 188 pp. ISBN 9786501480077.
+
+### Book Chapters
+
+1. Gozetto, Andréa, and **Breno A. H. Marisguia**. 2023. [Regulamentação do Lobby no Brasil em Perspectiva Comparada](https://dialogopolitico.org/wp-content/uploads/2025/05/Libro-_Democracia-y-Politicas-Publicas-Anticorrupcion_.pdf). In *Democracia e Políticas Públicas Anticorrupção*, 1:118-131.
+
+### Magazine and Professional Articles
+
+1. Venuto, Carolina; Santos, M. L. W. D.; and **Breno A. H. Marisguia**. 2021. "O Deadlock da Regulamentação das Atividades de RIG." *Revista ABRIG - Associação Brasileira de Relações Institucionais e Governamentais* 13: 14-16.
+
+1. Galvão, Eduardo; Santos, Manoel Leonardo; and **Breno A. H. Marisguia**. 2018. "Relações Governamentais: as competências que o mercado exige." *Diálogos Irelgov*, Digital, 23-30.
+
+## Research Software and Digital Projects
+
+**qcaERT**  
+R package. [GitHub](https://github.com/marisguia/qcaERT)
+
+**Research Design Notebook**  
+[marisguia.shinyapps.io/ResearchDesignNotebook/](https://marisguia.shinyapps.io/ResearchDesignNotebook/)
+
+## Research Experience and Projects
+
+**Career Mobility, Stability, and Profiles of Public-Sector Leaders (2009-2023)**  
+IPEA  
+Status: completed  
+Funder: Lemann Foundation  
+2025
+
+**Mapping Federal Legislative-Regulatory Competencies in Health**  
+Status: completed  
+Funder: Instituto Questão de Ciência  
+2023-2024
+
+**Assessing the Impact of the Córrego do Feijão Dam Collapse on Social Protection Services in Affected Municipalities**  
+Extension project, UFMG  
+Status: completed  
+2021
+
+**From Opposition to Government: A Comparative Analysis of Changes in the Workers' Party, the Chilean Socialist Party, and the Frente Amplio**  
+Scientific Initiation, UFMG  
+Status: completed  
+2016
+
+## Grants, Fellowships, and Scholarships
+
+**Postdoctoral Fellowship**  
+CNPq, Brazil  
+2026-present
+
+**Doctoral Scholarship**  
+CAPES, Brazil  
+2020-2024
+
+**Master's Scholarship**  
+FAPEMIG, Brazil  
+2018-2020
+
+**Scientific Initiation Scholarship**  
+FAPEMIG, Brazil  
+2016
+
+## Teaching Experience
+
+1. Knowledge Production and Research Designs in the Social Sciences  
+Undergraduate course, Social Sciences, UFMG  
+2026
+
+1. Introduction to R  
+Intensive Training Program in Quantitative and Qualitative Methodology (MQ²)  
+Short course, UFMG  
+2026
+
+1. Teaching Monitor, Social Science Methodology Laboratory  
+Faculty of Philosophy and Human Sciences, UFMG  
+2017
+
+#### Qualitative Comparative Analysis
+
+1. MQ²  
+Short course, UFMG  
+2026
+
+1. MQ²  
+Short course, UFMG  
+2025
+
+1. Brazilian Forum of Graduate Studies in Political Science  
+Short course, University of São Paulo  
+2025
+
+1. Brazilian Institute of Education, Development and Research  
+Short course  
+2024
+
+1. Federal University of Viçosa  
+Short course  
+2024
+
+1. Intensive Course on Research Methodologies in the Social Sciences (Modus)  
+Short course  
+2020
+
+1. Teaching Monitor, Modus  
+Short course  
+2018
+
+1. Teaching Monitor, MQ²  
+Short course, UFMG  
+2017
+
+## Conference Presentations and Talks
+
+1. **Breno A. H. Marisguia**. 2025. "Regimes de Bem-Estar Social na América Latina: Proposição de Índices Sintéticos de seu Desempenho." *49º Encontro Anual da ANPOCS*.
+
+1. **Breno A. H. Marisguia**. 2025. "Reshaping Power: Presidential Interruptions and Political Realignment in Latin America." *49º Encontro Anual da ANPOCS*.
+
+1. **Breno A. H. Marisguia**. 2022. "Welfare States' Visibility and Its Impact on the Support for Policies Aimed at Reducing Inequality in Latin American Countries." *25th Latin American Social & Public Policy Conference, University of Pittsburgh*.
+
+1. **Breno A. H. Marisguia** and A. K. M. Dias. 2021. "Overconfidence in Political Knowledge and Its Effects on the Democratic Attitudes of Latin Americans." *26th IPSA World Congress of Political Science*.
+
+1. **Breno A. H. Marisguia**. 2021. "Predicting and Explaining Presidential Interruptions in Latin America." 24th Latin American Social & Public Policy Conference, University of Pittsburgh.
+
+1. **Breno A. H. Marisguia** and A. K. M. Dias. 2021. "Superestimação do Conhecimento Político e seu Efeito Sobre as Atitudes Democráticas dos Latino-americanos." *45º Encontro Anual da ANPOCS*.
+
+1. Santos, Manoel Leonardo, and **Breno A. H. Marisguia**. 2021. "Determinantes do apoio dos parlamentares à regulamentação do lobby no Brasil." *45º Encontro Anual da ANPOCS*.
+
+1. Burni, A.; Eduardo Ryo Tamaki; Matheus Gomes Mendonça Ferreira; and **Breno A. H. Marisguia**. 2021. "The Upsurge of Far-Right Populists and Its Challenges to Latin American Democracies." *2021 European Consortium for Political Research - Joint Sessions of Workshops*.
+
+1. **Breno A. H. Marisguia**. 2020. "Predizendo e Explicando Interrupções Presidenciais na América Latina." *12º Encontro da Associação Brasileira de Ciência Política*.
+
+1. **Breno A. H. Marisguia**. 2020. "Predizendo e Explicando Interrupções Presidenciais na América Latina." *44º Encontro Anual da ANPOCS*.
+
+1. **Breno A. H. Marisguia**. 2019. "Interrupção de Mandatos Presidenciais na América Latina: Uma Meta-análise Sistemática." *VI Fórum Brasileiro de Pós-Graduação em Ciência Política*.
+
+1. **Breno A. H. Marisguia** and C. R. F. Melo. 2018. "Interrupções Presidenciais na América Latina: Explorando Configurações Causais." *II Seminário Internacional de Ciência Política UFRGS*.
+
+1. C. R. F. Melo and **Breno A. H. Marisguia**. 2016. "Da Oposição ao Governo: Uma análise comparada das mudanças ocorridas no Partido dos Trabalhadores (PT), na Frente Ampla (FA) e no Partido Socialista do Chile (PSCH)." *Semana de Iniciação Científica da UFMG*. 
+
+## Professional Service
+
+### Peer Review
+
+1. **Breno A. H. Marisguia**. 2021. Scientific reviewer, *PRACS: Revista Eletrônica de Humanidades do Curso de Ciências Sociais da UNIFAP*, 14(1).
+
+1. **Breno A. H. Marisguia**. 2021. Scientific reviewer, *PRACS: Revista Eletrônica de Humanidades do Curso de Ciências Sociais da UNIFAP*, 14(2).
+
+### Event Organization and Moderation
+
+1. **Breno A. H. Marisguia**. 2019. Student coordinator, GT1 - Parties, Elections, and Political Representation, VI Fórum Brasileiro de Pós-Graduação em Ciência Política.
+
+1. **Breno A. H. Marisguia**. 2018. Organizing committee member, VII Seminário Discente, Graduate Program in Political Science, UFMG, "30 Anos de Constituição: Legados e Disputas de um Projeto de País."
+
+1. **Breno A. H. Marisguia**. 2018. Moderator, "O papel dos grupos de interesse no Brasil." VII Seminário de Pós-Graduação PPGCP/UFMG.
+
+### Thesis and Exam Committees
+
+1. Santos, M. L. W. D.; Oliveira, R. B. G.; Rezende, L. P.; and **Breno A. H. Marisguia**. 2026. *Master's thesis committee for Larissa Diniz Aguiar*, "Em Busca dos Pontos de Lagrange: uma análise qualitativa comparativa das condições de desenvolvimento espacial em potências emergentes." Graduate Program in Political Science, UFMG.
+
+1. **Breno A. H. Marisguia**. 2025. *Qualifying exam committee, Felipe Arlen Silva Aguiar*. Federal University of Pernambuco.
+
+## Technical Reports, Consulting, and Applied Research Products
+
+1. Gozetto, Andréa, and **Breno A. H. Marisguia**. 2023. "Avaliação do Advocacy Socioambiental e Climático no Congresso Nacional durante a 46ª Legislatura". Painel Farol Verde - Clima & Meio Ambiente no Congresso Nacional. *Instituto Democracia e Sustentabilidade*.
+
+1. Magalhães, P., and **Breno A. H. Marisguia**. 2023. "Avaliação Programa Mãe Coruja Recife: um programa de atenção integral à primeira infância." *Secretaria de Desenvolvimento Social, Criança e Juventude, Recife, Brazil*.
+
+1. Gozetto, Andréa, and **Breno A. H. Marisguia**. 2022. [Perception of Institutional and Government Relations Professionals regarding the Regulation of Lobbying](https://www.unodc.org/cofrb/en/noticias/2024/03/unodc-brazil-holds-technical-meeting-under-the-global-action-for-business-integrity-project.html). *United Nations Office on Drugs and Crime*.
+
+1. Magalhães, P., and **Breno A. H. Marisguia**. 2020. "Avaliação Programa Adolescente Saudável." *Plan International*.
+
+1. Magalhães, P., and **Breno A. H. Marisguia**. 2020. "Avaliação Programa Mãe Coruja Recife: um programa de atenção integral à primeira infância." *Secretaria de Desenvolvimento Social, Criança e Juventude, Recife, Brazil*.

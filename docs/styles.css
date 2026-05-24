@@ -1,0 +1,53 @@
+/* Small custom layer on top of the Quarto theme. */
+
+:root {
+  --mg-teal: #1f6f68;
+  --mg-rust: #9d4635;
+  --mg-ink: #1f2a2e;
+}
+
+body {
+  color: var(--mg-ink);
+}
+
+a {
+  color: var(--mg-teal);
+}
+
+a:hover {
+  color: var(--mg-rust);
+}
+
+.navbar-title {
+  font-weight: 700;
+  display: none;
+}
+
+.quarto-title-block .title {
+  color: var(--mg-ink);
+}
+
+.quarto-title-block .subtitle {
+  color: #5f6f6b;
+}
+
+h2 {
+  border-bottom: 1px solid #dbe5e1;
+  padding-bottom: 0.25rem;
+}
+
+.profile-photo {
+  display: block;
+  float: right;
+  width: min(32%, 240px);
+  margin: 0.1rem 0 1rem 2rem;
+  border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+  .profile-photo {
+    float: none;
+    width: min(100%, 280px);
+    margin: 0 0 1.25rem 0;
+  }
+}

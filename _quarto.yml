@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Breno A. H. Marisguia"
+  site-url: "https://marisguia.github.io"
+  description: "GitHub page for Breno A. H. Marisguia"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: software.qmd
+        text: Software
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/marisguia
+        aria-label: GitHub
+  page-footer:
+    left: "Copyright 2026, Breno A. H. Marisguia"
+    right:
+      - text: "Built with Quarto"
+        href: https://quarto.org
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
