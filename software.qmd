@@ -6,10 +6,10 @@ title: "Software"
 
 ### qcaERT
 
-qcaERT is a package for appraising robustness in Qualitative Comparative Analysis (QCA) (Ragin, 2014). Building on the workflow supported by the [QCA package](https://cran.r-project.org/web/packages/QCA/index.html) (Dusa, 2019), qcaERT treats robustness evaluation as an auditable process through diagnostics for calibration thresholds, truth table cutoffs, case composition, cluster heterogeneity, and theory-specific condition sets. The package aims to make robustness appraisal more detailed and transparent while remaining consistent with the epistemological underpinnings of QCA.
+qcaERT is a package for appraising robustness in Qualitative Comparative Analysis (QCA) (Ragin, 2014). Building on the workflow supported by the [QCA package](https://CRAN.R-project.org/package=QCA) (Dusa, 2019), qcaERT treats robustness evaluation as an auditable process through diagnostics for calibration thresholds, truth table cutoffs, case composition, cluster heterogeneity, and theory-specific condition sets. The package aims to make robustness appraisal more detailed and transparent while remaining consistent with the epistemological underpinnings of QCA.
 
 - Repository: [GitHub](https://github.com/marisguia/qcaERT)
-- CRAN: Soon
+- CRAN: [qcaERT](https://CRAN.R-project.org/package=qcaERT)
 - Recommended citation: Marisguia, B. A. H. (2026). qcaERT: Enhanced Robustness Tests for Qualitative Comparative Analysis. R package version 0.1.0.
 
 #### References

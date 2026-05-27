@@ -86,7 +86,7 @@ UFMG, Belo Horizonte, Brazil
 ## Research Software and Digital Projects
 
 **qcaERT**  
-R package. [GitHub](https://github.com/marisguia/qcaERT)
+R package. [CRAN](https://CRAN.R-project.org/package=qcaERT), [GitHub](https://github.com/marisguia/qcaERT)
 
 **Research Design Notebook**  
 [marisguia.shinyapps.io/ResearchDesignNotebook/](https://marisguia.shinyapps.io/ResearchDesignNotebook/)

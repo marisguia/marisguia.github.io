@@ -1,0 +1,17 @@
+{
+  "hash": "1d51cd5ef9233b675efbf32d6e64da14",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Software\"\n---\n\nThis page will list R packages, scripts, datasets, reproducible workflows, and\nother software-related academic outputs.\n\n## Packages\n\n### Package or project name\n\nShort description of what the software does, who it is for, and how it connects\nto your research.\n\n- Repository: add link here\n- Documentation: add link here\n- Citation: add DOI or citation link here\n\n## Reproducible Workflows\n\n### Workflow or analysis name\n\nShort description of a reproducible analysis, data pipeline, teaching material,\nor computational resource.\n\n- Repository: add link here\n- Data: add link here, if public\n\n## Example R Chunk\n\nYou can include R code in Quarto pages. The code below is only an example and\ncan be deleted.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nsummary(cars)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n```\n\n\n:::\n:::\n\n",
+    "supporting": [
+      "software_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
