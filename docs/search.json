@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "qcaERT is a package for appraising robustness in Qualitative Comparative Analysis (QCA) (Ragin, 2014). Building on the workflow supported by the QCA package (Dusa, 2019), qcaERT treats robustness evaluation as an auditable process through diagnostics for calibration thresholds, truth table cutoffs, case composition, cluster heterogeneity, and theory-specific condition sets. The package aims to make robustness appraisal more detailed and transparent while remaining consistent with the epistemological underpinnings of QCA.\n\nRepository: GitHub\nCRAN: qcaERT\nRecommended citation: Marisguia, B. A. H. (2026). qcaERT: Enhanced Robustness Tests for Qualitative Comparative Analysis. R package version 0.1.0.\n\n\n\n\nDusa, Adrian. 2019. QCA with R: A Comprehensive Resource. Cham: Springer. https://adriandusa.com/research/books/2019-QCA/\nRagin, Charles C. 2014. The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies. Oakland, CA: University of California Press. https://www.ucpress.edu/books/the-comparative-method/paper"
-  },
-  {
-    "objectID": "software.html#r-packages",
-    "href": "software.html#r-packages",
-    "title": "Software",
-    "section": "",
-    "text": "qcaERT is a package for appraising robustness in Qualitative Comparative Analysis (QCA) (Ragin, 2014). Building on the workflow supported by the QCA package (Dusa, 2019), qcaERT treats robustness evaluation as an auditable process through diagnostics for calibration thresholds, truth table cutoffs, case composition, cluster heterogeneity, and theory-specific condition sets. The package aims to make robustness appraisal more detailed and transparent while remaining consistent with the epistemological underpinnings of QCA.\n\nRepository: GitHub\nCRAN: qcaERT\nRecommended citation: Marisguia, B. A. H. (2026). qcaERT: Enhanced Robustness Tests for Qualitative Comparative Analysis. R package version 0.1.0.\n\n\n\n\nDusa, Adrian. 2019. QCA with R: A Comprehensive Resource. Cham: Springer. https://adriandusa.com/research/books/2019-QCA/\nRagin, Charles C. 2014. The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies. Oakland, CA: University of California Press. https://www.ucpress.edu/books/the-comparative-method/paper"
-  },
-  {
-    "objectID": "software.html#apps",
-    "href": "software.html#apps",
-    "title": "Software",
-    "section": "Apps",
-    "text": "Apps\n\nResearch Design Notebook\nThe Research Design Notebook helps you organize a project by separating the main parts of a research design: the research question, the kind of knowledge claim, theory and concepts, empirical base, method, measurement, inference, and unresolved design questions. Also, it might serve as a neat teaching tool! The app is built so you can fill in your project information and then inspect it in different forms. The notebook, design map, memo, warnings, and downloads are generated from the same project info.\n\nLink: Research Design Notebook\nRecommended citation: Marisguia, B. A. H. (2026). Research Design Notebook. Version 0.2. Available at https://marisguia.shinyapps.io/ResearchDesignNotebook/"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -103,5 +82,54 @@
     "title": "Curriculum Vitae",
     "section": "Technical Reports, Consulting, and Applied Research Products",
     "text": "Technical Reports, Consulting, and Applied Research Products\n\nGozetto, Andréa, and Breno A. H. Marisguia. 2023. “Avaliação do Advocacy Socioambiental e Climático no Congresso Nacional durante a 46ª Legislatura”. Painel Farol Verde - Clima & Meio Ambiente no Congresso Nacional. Instituto Democracia e Sustentabilidade.\nMagalhães, P., and Breno A. H. Marisguia. 2023. “Avaliação Programa Mãe Coruja Recife: um programa de atenção integral à primeira infância.” Secretaria de Desenvolvimento Social, Criança e Juventude, Recife, Brazil.\nGozetto, Andréa, and Breno A. H. Marisguia. 2022. Perception of Institutional and Government Relations Professionals regarding the Regulation of Lobbying. United Nations Office on Drugs and Crime.\nMagalhães, P., and Breno A. H. Marisguia. 2020. “Avaliação Programa Adolescente Saudável.” Plan International.\nMagalhães, P., and Breno A. H. Marisguia. 2020. “Avaliação Programa Mãe Coruja Recife: um programa de atenção integral à primeira infância.” Secretaria de Desenvolvimento Social, Criança e Juventude, Recife, Brazil."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Breno A. H. Marisguia",
+    "section": "",
+    "text": "I am a postdoctoral fellow in the Graduate Program in Political Science at the Federal University of Minas Gerais, where I also received my Ph.D. in Political Science; and a visiting researcher at the Institute of Applied Economic Research\nMy research focuses on comparative politics, political institutions, and presidential interruptions in Latin America. I also work on research methods, epistemology, Qualitative Comparative Analysis (QCA), and computational tools that make social science research more transparent, systematic, and auditable.\nAlongside my academic research, I have collaborated on applied projects concerning public-sector leadership, legislative-regulatory competencies, lobbying regulation, social policy evaluation, and democratic institutions in Brazil. I am also the developer of qcaERT, an R package for robustness assessment in QCA."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Breno A. H. Marisguia",
+    "section": "",
+    "text": "I am a postdoctoral fellow in the Graduate Program in Political Science at the Federal University of Minas Gerais, where I also received my Ph.D. in Political Science; and a visiting researcher at the Institute of Applied Economic Research\nMy research focuses on comparative politics, political institutions, and presidential interruptions in Latin America. I also work on research methods, epistemology, Qualitative Comparative Analysis (QCA), and computational tools that make social science research more transparent, systematic, and auditable.\nAlongside my academic research, I have collaborated on applied projects concerning public-sector leadership, legislative-regulatory competencies, lobbying regulation, social policy evaluation, and democratic institutions in Brazil. I am also the developer of qcaERT, an R package for robustness assessment in QCA."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Breno A. H. Marisguia",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nResearch methods\nComparative politics\nEpistemology\nPresidentialism\nLegislative studies"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Breno A. H. Marisguia",
+    "section": "Contact",
+    "text": "Contact\n\nGitHub\nEmail: marisguiabreno@gmail.com"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "qcaERT is a package for appraising robustness in Qualitative Comparative Analysis (QCA) (Ragin, 2014). Building on the workflow supported by the QCA package (Dusa, 2019), qcaERT treats robustness evaluation as an auditable process through diagnostics for calibration thresholds, truth table cutoffs, case composition, cluster heterogeneity, and theory-specific condition sets. The package aims to make robustness appraisal more detailed and transparent while remaining consistent with the epistemological underpinnings of QCA.\n\nRepository: GitHub\nCRAN: qcaERT\nRecommended citation: Marisguia, B. A. H. (2026). qcaERT: Enhanced Robustness Tests for Qualitative Comparative Analysis. R package version 0.1.0.\n\n\n\n\nDusa, Adrian. 2019. QCA with R: A Comprehensive Resource. Cham: Springer. https://adriandusa.com/research/books/2019-QCA/\nRagin, Charles C. 2014. The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies. Oakland, CA: University of California Press. https://www.ucpress.edu/books/the-comparative-method/paper"
+  },
+  {
+    "objectID": "software.html#r-packages",
+    "href": "software.html#r-packages",
+    "title": "Software",
+    "section": "",
+    "text": "qcaERT is a package for appraising robustness in Qualitative Comparative Analysis (QCA) (Ragin, 2014). Building on the workflow supported by the QCA package (Dusa, 2019), qcaERT treats robustness evaluation as an auditable process through diagnostics for calibration thresholds, truth table cutoffs, case composition, cluster heterogeneity, and theory-specific condition sets. The package aims to make robustness appraisal more detailed and transparent while remaining consistent with the epistemological underpinnings of QCA.\n\nRepository: GitHub\nCRAN: qcaERT\nRecommended citation: Marisguia, B. A. H. (2026). qcaERT: Enhanced Robustness Tests for Qualitative Comparative Analysis. R package version 0.1.0.\n\n\n\n\nDusa, Adrian. 2019. QCA with R: A Comprehensive Resource. Cham: Springer. https://adriandusa.com/research/books/2019-QCA/\nRagin, Charles C. 2014. The Comparative Method: Moving Beyond Qualitative and Quantitative Strategies. Oakland, CA: University of California Press. https://www.ucpress.edu/books/the-comparative-method/paper"
+  },
+  {
+    "objectID": "software.html#apps",
+    "href": "software.html#apps",
+    "title": "Software",
+    "section": "Apps",
+    "text": "Apps\n\nResearch Design Notebook\nThe Research Design Notebook helps you organize a project by separating the main parts of a research design: the research question, the kind of knowledge claim, theory and concepts, empirical base, method, measurement, inference, and unresolved design questions. Also, it might serve as a neat teaching tool! The app is built so you can fill in your project information and then inspect it in different forms. The notebook, design map, memo, warnings, and downloads are generated from the same project info.\n\nLink: Research Design Notebook\nRecommended citation: Marisguia, B. A. H. (2026). Research Design Notebook. Version 0.2. Available at https://marisguia.shinyapps.io/ResearchDesignNotebook/"
   }
 ]
