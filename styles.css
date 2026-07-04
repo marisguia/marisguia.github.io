@@ -32,6 +32,8 @@ a:hover {
   min-height: 56px;
   padding-top: 0.35rem;
   padding-bottom: 0.35rem;
+  border-bottom: 1px solid #dbe5e1;
+  box-shadow: 0 1px 8px rgb(31 42 46 / 6%);
 }
 
 .navbar-container,
@@ -51,6 +53,25 @@ a:hover {
   display: inline-flex;
   align-items: center;
   height: 32px;
+}
+
+.navbar-nav .nav-link {
+  padding: 0 0.78rem;
+  border-radius: 999px;
+  color: #2f3a3d;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.navbar-nav .nav-link:hover {
+  background: rgb(31 111 104 / 10%);
+  color: var(--mg-teal);
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link[aria-current="page"] {
+  background: var(--mg-teal);
+  color: #ffffff;
 }
 
 .quarto-color-scheme-toggle {
@@ -132,6 +153,26 @@ body.quarto-dark dt {
 
 body.quarto-dark h2 {
   border-bottom-color: var(--mg-dark-line);
+}
+
+body.quarto-dark .navbar {
+  border-bottom-color: var(--mg-dark-line);
+  box-shadow: 0 1px 8px rgb(0 0 0 / 24%);
+}
+
+body.quarto-dark .navbar-nav .nav-link {
+  color: var(--mg-dark-ink);
+}
+
+body.quarto-dark .navbar-nav .nav-link:hover {
+  background: rgb(110 214 207 / 14%);
+  color: var(--mg-dark-link);
+}
+
+body.quarto-dark .navbar-nav .nav-link.active,
+body.quarto-dark .navbar-nav .nav-link[aria-current="page"] {
+  background: var(--mg-dark-link);
+  color: #102022;
 }
 
 body.quarto-dark #TOC,

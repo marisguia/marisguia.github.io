@@ -7,7 +7,7 @@ subtitle: "Postdoctoral fellow – PPGCP | UFMG"
 
 ![](marisguia.jpg){fig-alt="Breno A. H. Marisguia" .profile-photo}
 
-I am a postdoctoral fellow in the [Graduate Program in Political Science](http://ppgcp.fafich.ufmg.br/indexi.php) at the [Federal University of Minas Gerais](https://www.ufmg.br/), where I also received my Ph.D. in Political Science; and a visiting researcher at the [Institute of Applied Economic Research](https://www.ipea.gov.br/portal/)
+I am a postdoctoral fellow in the [Graduate Program in Political Science](http://ppgcp.fafich.ufmg.br/indexi.php) at the [Federal University of Minas Gerais](https://www.ufmg.br/), where I also received my Ph.D. in Political Science; and a visiting researcher at the [Institute of Applied Economic Research](https://www.ipea.gov.br/portal/).
 
 My research focuses on comparative politics, political institutions, and presidential interruptions in Latin America. I also work on research methods, epistemology, Qualitative Comparative Analysis (QCA), and computational tools that make social science research more transparent, systematic, and auditable.
 
