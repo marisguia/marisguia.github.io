@@ -10,7 +10,8 @@ qcaERT is a package for appraising robustness in Qualitative Comparative Analysi
 
 - Repository: [GitHub](https://github.com/marisguia/qcaERT)
 - CRAN: [qcaERT](https://CRAN.R-project.org/package=qcaERT)
-- Recommended citation: Marisguia, B. A. H. (2026). qcaERT: Enhanced Robustness Tests for Qualitative Comparative Analysis. R package version 0.1.0.
+- Open-access book: [A Guide to qcaERT: Robustness Diagnostics in QCA](https://marisguia.github.io/qcaERT/)
+- Recommended citation: Marisguia, B. A. H. (2026). qcaERT: Enhanced Robustness Tests for Qualitative Comparative Analysis. R package version 0.1.2. 10.32614/CRAN.package.qcaERT.
 
 #### References
 - Dusa, Adrian. 2019. *QCA with R: A Comprehensive Resource*. Cham: Springer. [https://adriandusa.com/research/books/2019-QCA/](https://adriandusa.com/research/books/2019-QCA/)

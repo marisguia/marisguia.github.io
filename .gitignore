@@ -6,6 +6,7 @@
 _site
 .DS_Store
 Thumbs.db
+.NOT IMPLEMENTED YET selectedresearch.qmd
 
 /.quarto/
 **/*.quarto_ipynb

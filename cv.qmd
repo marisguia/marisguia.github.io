@@ -8,7 +8,7 @@ Postdoctoral Fellow, Graduate Program in Political Science
 Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil  
 [GitHub](https://github.com/marisguia) | [Website](https://marisguia.github.io) | [Lattes](http://lattes.cnpq.br/3901080095177475)
 
-Last updated: May 2026
+Last updated: August 2026
 
 ## Academic Appointments
 
@@ -21,7 +21,7 @@ Graduate Program in Political Science, UFMG, Belo Horizonte, Brazil
 
 **Visiting Researcher**  
 Institute for Applied Economic Research (IPEA), Brazil  
-2025
+2025-present
 
 - Research line: State, Institutions, and Democracy.
 - Project: career mobility, stability, and profiles of public-sector leaders in Brazil.
@@ -71,7 +71,7 @@ UFMG, Belo Horizonte, Brazil
 
 1. Albala, A.; Santos, M. L. W. D.; and **Breno A. H. Marisguia**. 2026. [*Análise Qualitativa Comparada (QCA) Para Ciências Sociais*](https://livrariaintersaberes.com.br/produto/analise-qualitativa-comparada-qca-para-ciencias-sociais/). 1st ed. Curitiba: Intersaberes. 221 pp.
 
-1. **Breno A. H. Marisguia**. 2025. [*Tale Compass*](https://www.drivethrurpg.com/en/product/523108/tale-compass). 1st ed. 188 pp. ISBN 9786501480077.
+1. **Marisguia, B. A. H.** (2026). [A Guide to qcaERT: Robustness Diagnostics in QCA (Version 1.0)](https://marisguia.github.io/qcaERT/). Zenodo. https://doi.org/10.5281/zenodo.21685193
 
 ### Book Chapters
 
@@ -183,6 +183,10 @@ Short course, UFMG
 
 ## Conference Presentations and Talks
 
+1. **Breno A. H. Marisguia**. 2026. "Reshaping Power: Presidential Interruptions and Political Realignment in Latin America." *15º Encontro da ABCP*.
+
+1. Nunes, F. J. K.; Marona, M. C.; Santos, M. L.; **Breno A. H. Marisguia**. 2026. Preditores do conservadorismo no Ministério Público brasileiro: evidências de um survey nacional." *15º Encontro da ABCP*.
+
 1. **Breno A. H. Marisguia**. 2025. "Regimes de Bem-Estar Social na América Latina: Proposição de Índices Sintéticos de seu Desempenho." *49º Encontro Anual da ANPOCS*.
 
 1. **Breno A. H. Marisguia**. 2025. "Reshaping Power: Presidential Interruptions and Political Realignment in Latin America." *49º Encontro Anual da ANPOCS*.
@@ -199,7 +203,7 @@ Short course, UFMG
 
 1. Burni, A.; Eduardo Ryo Tamaki; Matheus Gomes Mendonça Ferreira; and **Breno A. H. Marisguia**. 2021. "The Upsurge of Far-Right Populists and Its Challenges to Latin American Democracies." *2021 European Consortium for Political Research - Joint Sessions of Workshops*.
 
-1. **Breno A. H. Marisguia**. 2020. "Predizendo e Explicando Interrupções Presidenciais na América Latina." *12º Encontro da Associação Brasileira de Ciência Política*.
+1. **Breno A. H. Marisguia**. 2020. "Predizendo e Explicando Interrupções Presidenciais na América Latina." *12º Encontro da ABCP*.
 
 1. **Breno A. H. Marisguia**. 2020. "Predizendo e Explicando Interrupções Presidenciais na América Latina." *44º Encontro Anual da ANPOCS*.
 
